@@ -2,6 +2,7 @@
 public class Assignment01Q05 {
 
     public static int findShortestPath(int[][] m, int i, int j) {
+        // Apperantly it can be nice to study this course AFTER finishing with Algorithms course:)))
 
         int n = m.length;
 
